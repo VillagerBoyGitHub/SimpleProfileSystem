@@ -31,3 +31,16 @@ We welcome any contributions to this plugin.
 
 # Distribution
 According to the GPL-3.0 license, used for this plugin, you have the rights to modify it, redistribute it, sell it, and have full control over it all for free.
+
+# SodiumNodes
+Are you in need of a Minecraft server but don't want to spend a fortune? SodiumNodes has got you covered!
+
+### Included features
+- 🛡 DDoS protection
+- 🌍 Multiple locations
+- ⚙ Unlimited Customisation
+
+### Links
+Website: https://www.sodiumnodes.org
+Billing: https://billing.sodiumnodes.org
+Panel: https://panel.sodiumnodes.org
