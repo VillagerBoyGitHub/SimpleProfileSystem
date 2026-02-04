@@ -41,6 +41,6 @@ Are you in need of a Minecraft server but don't want to spend a fortune? SodiumN
 - ⚙ Unlimited Customisation
 
 ### Links
-Website: https://www.sodiumnodes.org
-Billing: https://billing.sodiumnodes.org
-Panel: https://panel.sodiumnodes.org
+- Website: https://www.sodiumnodes.org
+- Billing: https://billing.sodiumnodes.org
+- Panel: https://panel.sodiumnodes.org
