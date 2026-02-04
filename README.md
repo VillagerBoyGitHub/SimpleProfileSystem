@@ -1,7 +1,7 @@
 # SimpleProfileSystem
 A stable profile system containing wins, kills and deaths for PocketMine v2.0.0.
 
-<img src="logo.png" width="128" alt="Logo"/>
+<center><img src="logo.png" width="256" alt="Logo"/></center>
 # Commands
 ### Currently, you can use the following commands:
 - /profile - view your profile
