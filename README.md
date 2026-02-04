@@ -1,5 +1,5 @@
 # SimpleProfileSystem
-A stable profile system containing wins, kills and deaths for PocketMine v2.0.0.
+A stable profile system containing wins, kills and deaths for PocketMine v2.0.0.<br>
 <img src="logo.png" width="128" alt="Logo"/>
 # Commands
 ### Currently, you can use the following commands:
