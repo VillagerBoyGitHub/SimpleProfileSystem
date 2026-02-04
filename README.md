@@ -22,7 +22,8 @@ A stable profile system containing wins, kills and deaths for PocketMine v2.0.0.
 $ps = \pocketmine\Server::getInstance()->getPluginManager()->getPlugin("SimpleProfileSystem");
 $ps->getPlayerManager()->addWin($name);
 ```
-
+# Releases
+[Click here](https://github.com/VillagerBoyGitHub/SimpleProfileSystem/releases)
 # Contributions
 We welcome any contributions to this plugin.
 
