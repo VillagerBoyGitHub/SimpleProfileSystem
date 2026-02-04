@@ -1,0 +1,9 @@
+name: SimpleProfileSystem
+author: LookedRobob
+version: 1.0.0
+website: https://villagerboy.xyz
+description: "Profile system to check kills, wins, and deaths."
+creationDate: 02/02/2026
+
+api: 2.0.0
+main: Robert\ProfileSystem\Main
